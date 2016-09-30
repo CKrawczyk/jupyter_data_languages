@@ -1,0 +1,2 @@
+*.ipynb filter=ipynb_stripout
+*.fits filter=lfs diff=lfs merge=lfs -text
