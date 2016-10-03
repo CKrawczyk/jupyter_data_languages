@@ -15,10 +15,10 @@ style1 = {
     'axes.titlesize': 'x-large',
     'axes.labelsize': 'large',
     'axes.prop_cycle': cycler('color', [
-        '#1f78b4',   # blue
+        '#1f78b4',  # blue
         '#33a02c',  # green
         '#e31a1c',  # red
-        '#ff7f00',     # orange
+        '#ff7f00',  # orange
         '#6a3d9a',  # purple
         '#b15928'   # brown
     ]),
