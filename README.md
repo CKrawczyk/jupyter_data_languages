@@ -8,6 +8,7 @@ The easiest way to install python on any OS is to use [anaconda python](https://
 + `emcee`
 + `reproject`
 + `wcsaxes`
+
 '''bash
 pip install emcee reproject wcsaxes
 '''
