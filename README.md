@@ -9,9 +9,9 @@ The easiest way to install python on any OS is to use [anaconda python](https://
 + `reproject`
 + `wcsaxes`
 
-'''bash
+```bash
 pip install emcee reproject wcsaxes
-'''
+```
 
 ## Class 1
 - `Git.ipynb`: Git and Git-Hub
