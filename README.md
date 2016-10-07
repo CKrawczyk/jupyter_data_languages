@@ -1,5 +1,4 @@
-# jupyter_data_languages
-Jupyter notebooks for PhD class on data languages.
+# Jupyter notebooks for PhD class on data languages.
 
 ## Installing python
 The easiest way to install python on any OS is to use [anaconda python](https://www.continuum.io/downloads).  This will install a local version of python on your system so you don't need to worry about needing admin to install new packages.  Most of the packages listed above are installed by default with anaconda.  For this class we will be using python 3, and I recommend you use this version for you research (unless you have a very good reason to use python 2).
@@ -27,3 +26,4 @@ pip install emcee reproject wcsaxes
 - `Stats_with_Scipy.ipynb`: using `scipy` for stats distributions
 - `Astropy_fitting.ipynb`: using `astropy` to model and fit data
 - `mcmc_fit_with_outliers.ipynb`: fitting a line to data while rejecting outliers using MCMC
+- `Gaussian_process_regression`: fitting data without defining a functional form
