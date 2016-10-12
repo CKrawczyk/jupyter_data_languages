@@ -15,12 +15,16 @@ style1 = {
     'axes.titlesize': 'x-large',
     'axes.labelsize': 'large',
     'axes.prop_cycle': cycler('color', [
-        '#1f78b4',  # blue
-        '#33a02c',  # green
-        '#e31a1c',  # red
-        '#ff7f00',  # orange
-        '#6a3d9a',  # purple
-        '#b15928'   # brown
+        '#1f77b4',  # blue
+        '#ff7f0e',  # orange
+        '#2ca02c',  # green
+        '#d62728',  # red
+        '#9467bd',  # purple
+        '#8c564b',  # brown
+        '#e377c2',  # magenta
+        '#7f7f7f',  # gray
+        '#bcbd22',  # yellow
+        '#17becf',  # cyan
     ]),
 
     # Ticks
