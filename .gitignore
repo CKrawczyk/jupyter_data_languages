@@ -89,3 +89,4 @@ ENV/
 .ropeproject
 
 image_output/*.png
+tex/
