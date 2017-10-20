@@ -14,18 +14,6 @@ style1 = {
     'axes.linewidth': 1.5,
     'axes.titlesize': 'x-large',
     'axes.labelsize': 'large',
-    'axes.prop_cycle': cycler('color', [
-        '#1f77b4',  # blue
-        '#ff7f0e',  # orange
-        '#2ca02c',  # green
-        '#d62728',  # red
-        '#9467bd',  # purple
-        '#8c564b',  # brown
-        '#e377c2',  # magenta
-        '#7f7f7f',  # gray
-        '#bcbd22',  # yellow
-        '#17becf',  # cyan
-    ]),
 
     # Ticks
     'xtick.major.size': 6,
@@ -35,6 +23,8 @@ style1 = {
     'xtick.major.pad': 6,
     'xtick.minor.pad': 6,
     'xtick.labelsize': 'medium',
+    'xtick.direction': 'in',
+    'xtick.top': True,
 
     'ytick.major.size': 6,
     'ytick.minor.size': 4,
@@ -43,6 +33,8 @@ style1 = {
     'ytick.major.pad': 6,
     'ytick.minor.pad': 6,
     'ytick.labelsize': 'medium',
+    'ytick.direction': 'in',
+    'ytick.right': True,
 
     # Legend
     'legend.fancybox': True,
