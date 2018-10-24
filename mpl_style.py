@@ -1,5 +1,3 @@
-from cycler import cycler
-
 # see http://matplotlib.org/users/customizing.html for all options
 
 style1 = {
