@@ -15,6 +15,7 @@ pip install emcee reproject wcsaxes
 ## Class 1
 - `Git.ipynb`: Git and Git-Hub
 - `General_Python.ipynb`: General python information
+- `Unit_testing.ipynb`: Writing unit tests in python
 
 ## Class 2
 - `General_plotting.ipynb`: How to make publication ready plots
