@@ -12,6 +12,8 @@ style1 = {
     'axes.linewidth': 1.5,
     'axes.titlesize': 'x-large',
     'axes.labelsize': 'large',
+    'axes.spines.top': True,
+    'axes.spines.right': True,
 
     # Ticks
     'xtick.major.size': 6,
