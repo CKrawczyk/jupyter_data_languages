@@ -90,3 +90,5 @@ ENV/
 
 image_output/*.png
 tex/
+
+.vscode
