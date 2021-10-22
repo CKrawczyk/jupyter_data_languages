@@ -27,4 +27,4 @@ pip install pymc3 graphviz reproject
 - `Stats_with_Scipy.ipynb`: using `scipy` for stats distributions
 - `Astropy_fitting.ipynb`: using `astropy` to model and fit data
 - `mcmc_fit_with_outliers_pymc.ipynb`: fitting a line to data while rejecting outliers using MCMC (pymc3)
-- `Gaussian_process_regression`: fitting data without defining a functional form
+- `Gaussian_process_regression_pymc.ipynb`: fitting data without defining a functional form
